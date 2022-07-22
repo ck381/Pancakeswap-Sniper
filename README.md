@@ -1,4 +1,4 @@
-# Blockchain Trading Application
+# Pancakeswap Sniper (Binance Smart Chain)
 
 <p align="center">
   <img src="https://www.asiacryptotoday.com/wp-content/uploads/2020/08/Binance-Smart-Chain-scaled.jpeg" width="350" title="Binance Smart Chain">
